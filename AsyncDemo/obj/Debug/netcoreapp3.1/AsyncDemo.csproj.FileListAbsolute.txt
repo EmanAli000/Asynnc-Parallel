@@ -1,0 +1,13 @@
+C:\Users\Eman.Suliman\Desktop\XYZ\4-C# ( Async + Parallel )\AsyncDemo\AsyncDemo\bin\Debug\netcoreapp3.1\AsyncDemo.exe
+C:\Users\Eman.Suliman\Desktop\XYZ\4-C# ( Async + Parallel )\AsyncDemo\AsyncDemo\bin\Debug\netcoreapp3.1\AsyncDemo.deps.json
+C:\Users\Eman.Suliman\Desktop\XYZ\4-C# ( Async + Parallel )\AsyncDemo\AsyncDemo\bin\Debug\netcoreapp3.1\AsyncDemo.runtimeconfig.json
+C:\Users\Eman.Suliman\Desktop\XYZ\4-C# ( Async + Parallel )\AsyncDemo\AsyncDemo\bin\Debug\netcoreapp3.1\AsyncDemo.runtimeconfig.dev.json
+C:\Users\Eman.Suliman\Desktop\XYZ\4-C# ( Async + Parallel )\AsyncDemo\AsyncDemo\bin\Debug\netcoreapp3.1\AsyncDemo.dll
+C:\Users\Eman.Suliman\Desktop\XYZ\4-C# ( Async + Parallel )\AsyncDemo\AsyncDemo\bin\Debug\netcoreapp3.1\AsyncDemo.pdb
+C:\Users\Eman.Suliman\Desktop\XYZ\4-C# ( Async + Parallel )\AsyncDemo\AsyncDemo\obj\Debug\netcoreapp3.1\AsyncDemo.csprojAssemblyReference.cache
+C:\Users\Eman.Suliman\Desktop\XYZ\4-C# ( Async + Parallel )\AsyncDemo\AsyncDemo\obj\Debug\netcoreapp3.1\AsyncDemo.AssemblyInfoInputs.cache
+C:\Users\Eman.Suliman\Desktop\XYZ\4-C# ( Async + Parallel )\AsyncDemo\AsyncDemo\obj\Debug\netcoreapp3.1\AsyncDemo.AssemblyInfo.cs
+C:\Users\Eman.Suliman\Desktop\XYZ\4-C# ( Async + Parallel )\AsyncDemo\AsyncDemo\obj\Debug\netcoreapp3.1\AsyncDemo.csproj.CoreCompileInputs.cache
+C:\Users\Eman.Suliman\Desktop\XYZ\4-C# ( Async + Parallel )\AsyncDemo\AsyncDemo\obj\Debug\netcoreapp3.1\AsyncDemo.dll
+C:\Users\Eman.Suliman\Desktop\XYZ\4-C# ( Async + Parallel )\AsyncDemo\AsyncDemo\obj\Debug\netcoreapp3.1\AsyncDemo.pdb
+C:\Users\Eman.Suliman\Desktop\XYZ\4-C# ( Async + Parallel )\AsyncDemo\AsyncDemo\obj\Debug\netcoreapp3.1\AsyncDemo.genruntimeconfig.cache
